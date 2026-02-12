@@ -66,7 +66,7 @@ graph TD
             Tech <-->|Retrieve| DB2[(Postgres: Support_Docs)]
         end
         
-        Tariff & Tech -->|Generate| LLM[Google Gemini 1.5]
+        Tariff & Tech -->|Generate| LLM[Google Gemini 2.5]
     end
     
     LLM -->|Cevap| UI
