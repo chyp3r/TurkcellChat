@@ -1,4 +1,4 @@
-# 🟡 Turkcell Asistan: Multi-Agent RAG Destekli Akıllı Danışman
+# 🟡 TurkcellChat: Multi-Agent RAG Destekli Akıllı Danışman
 
 <div align="center">
 
