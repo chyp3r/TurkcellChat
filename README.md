@@ -81,7 +81,7 @@ Projeyi **tek komutla** ayağa kaldırmak için Docker kullanın. PostgreSQL, Ba
 
 ```bash
 # 1. Projeyi Klonlayın
-git clone https://github.com/chyp3r/turkcell-gnc-asistan.git
+git clone https://github.com/chyp3r/TurkcellChat.git
 cd turkcell-gnc-asistan
 
 # 2. Ortam Değişkenlerini Ayarlayın (.env)
