@@ -82,7 +82,7 @@ Projeyi **tek komutla** ayağa kaldırmak için Docker kullanın. PostgreSQL, Ba
 ```bash
 # 1. Projeyi Klonlayın
 git clone https://github.com/chyp3r/TurkcellChat.git
-cd turkcell-gnc-asistan
+cd TurkcellChat
 
 # 2. Ortam Değişkenlerini Ayarlayın (.env)
 # GOOGLE_API_KEY ve DATABASE_URL ekleyin.
